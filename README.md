@@ -57,7 +57,7 @@ Requisitos
 ```
 
 
-## Contributing
+## Contribuição
 
 Contribuições são bem-vindas! Se você deseja colaborar com o projeto, siga os seguintes passos:
 
